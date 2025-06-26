@@ -1,0 +1,9 @@
+Python
+SQL
+Machine Learning
+Excel
+Data Analysis
+Java
+AWS
+Docker
+Git
